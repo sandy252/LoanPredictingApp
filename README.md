@@ -25,15 +25,15 @@ Since the details entered by each customer will be saved in the database of the 
 ## Approach
 
 The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing.
-#### Data Exploration
+- #### Data Exploration
 I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
-#### Data cleaning
+- #### Data cleaning
 checking null values, checking outliers, checking imbalance in dataset.
-#### Data Visualization
+- #### Data Visualization
 Ploted colleration matrix to get insights about dependend and independed variables. making bar graphs, box plot, scatter plot, etc.
-#### Model Selection
+- #### Model Selection
 Made many Models(linear regression, svm, xgboost, Random Forest). All models were performing quite well so I selected Support Vector machine with an accuracy of 0.81 after perfoming hyperparameter tuning. 
-#### Model Dump
+- #### Model Dump
 As per selected trained model is dumped to pickled format for app development.
 
 
