@@ -57,7 +57,8 @@ As per selected trained model is dumped to pickled format for app development.
 
 ## Demo 
 
-
+## Deployment
+Heroku : https://loanpredictingapp.herokuapp.com/
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
