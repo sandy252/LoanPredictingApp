@@ -45,9 +45,13 @@ As per selected trained model is dumped to pickled format for app development.
 - #### Numpy,Pandas,Seaborn,Matplotlib : for EDA
 - #### Heroku : used for deployment.
 ## User Interface
-![Screenshot (22)](https://user-images.githubusercontent.com/66490787/151321419-1d882627-3dc6-4e41-a0d0-c9045d9da871.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/66490787/151321839-d5823eed-7758-4093-b7b6-d5671dbc2911.png)
 
-![Screenshot (21)](https://user-images.githubusercontent.com/66490787/151321472-8ae343c5-df1e-4c84-8c81-8a3fc5b78650.png)
+
+
+
+![Screenshot (23)](https://user-images.githubusercontent.com/66490787/151321898-701873ce-d5ec-4b2f-9c4d-bf6c7a7a38a1.png)
+
 
 
 
