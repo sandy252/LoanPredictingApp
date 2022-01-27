@@ -4,7 +4,7 @@
 Loan Eligibility preidictor is an AI based web app which has been built to classify customers whether they are eligible for taking Home loan from a insurance company.
 
 
-## Probem Statement
+## Problem Statement
 
 Dream Housing Finance company deals in all kinds of home loans. They have presence across all urban, semi urban and rural areas. Customer first applies for home loan and after that company validates the customer eligibility for loan.
 
@@ -25,15 +25,15 @@ Since the details entered by each customer will be saved in the database of the 
 ## Approach
 
 The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing.
-### Data Exploration
+#### Data Exploration
 I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
-### Data cleaning
+#### Data cleaning
 checking null values, checking outliers, checking imbalance in dataset.
-### Data Visualization
+#### Data Visualization
 Ploted colleration matrix to get insights about dependend and independed variables. making bar graphs, box plot, scatter plot, etc.
-### Model Selection
+#### Model Selection
 Made many Models(linear regression, svm, xgboost, Random Forest). All models were performing quite well so I selected Support Vector machine with an accuracy of 0.81 after perfoming hyperparameter tuning. 
-### Model Dump
+#### Model Dump
 As per selected trained model is dumped to pickled format for app development.
 
 
@@ -45,13 +45,13 @@ As per selected trained model is dumped to pickled format for app development.
 - #### Numpy,Pandas,Seaborn,Matplotlib : for EDA
 - #### Heroku : used for deployment.
 ## User Interface
+![Screenshot (22)](https://user-images.githubusercontent.com/66490787/151321419-1d882627-3dc6-4e41-a0d0-c9045d9da871.png)
 
+![Screenshot (21)](https://user-images.githubusercontent.com/66490787/151321472-8ae343c5-df1e-4c84-8c81-8a3fc5b78650.png)
 
 
 
 ## Demo 
-
-
 
 
 ## Badges
