@@ -59,6 +59,7 @@ As per selected trained model is dumped to pickled format for app development.
 
 ## Deployment
 Heroku : https://loanpredictingapp.herokuapp.com/
+Google cloud Platform: https://check1-339604.lm.r.appspot.com/
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
