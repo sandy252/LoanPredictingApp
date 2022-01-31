@@ -43,7 +43,7 @@ As per selected trained model is dumped to pickled format for app development.
 - #### Streamlit : as a web framework
 - #### Mongodb : mongodb compass for local and Atlas mongodb for cloud.
 - #### Numpy,Pandas,Seaborn,Matplotlib : for EDA
-- #### Heroku : used for deployment.
+- #### Google App Engine and Heroku : used for deployment.
 ## User Interface
 ![Screenshot (22)](https://user-images.githubusercontent.com/66490787/151321839-d5823eed-7758-4093-b7b6-d5671dbc2911.png)
 
