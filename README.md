@@ -1,8 +1,7 @@
 
 # Loan Eligibility predictor
 
-Loan Eligibility preidictor is an AI based web app which has been built to classify customers whether they are eligible for taking Home loan from a insurance company.
-
+Loan Eligibility preidictor is an AI based web app which has been built to classify customers whether they are eligible for taking Home loan from an insurance company.
 
 ## Problem Statement
 
