@@ -56,6 +56,10 @@ As per selected trained model is dumped to pickled format for app development.
 
 ## Demo 
 
+https://user-images.githubusercontent.com/66490787/160267974-73dbe800-06d4-4218-9a7a-35ce924ead18.mp4
+
+
+
 ## Deployment
 Heroku : https://loanpredictingapp.herokuapp.com/
 
