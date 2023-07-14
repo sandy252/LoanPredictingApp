@@ -69,6 +69,9 @@ Heroku : https://loanpredictingapp.herokuapp.com/
 Google cloud Platform: https://check1-339604.lm.r.appspot.com/
 
 
+AWS EC2: http://3.111.157.34:8501/
+
+
 
 
 
